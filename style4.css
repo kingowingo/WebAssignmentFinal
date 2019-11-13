@@ -1,0 +1,132 @@
+
+body {
+  margin: 0;
+  padding: 0;
+ background:rgb(26, 26, 26);
+  
+}
+
+.header {
+
+  width: 100%;
+  height: 76px;
+  margin: 0 auto;
+  background: rgb(16, 16, 16);
+}
+
+
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 133Px;
+  height:70px;
+
+}
+
+
+html {
+  
+  font-family: 'Dosis', sans-serif;
+  background: rgb(27, 27, 27);
+}
+
+h2 {
+  position: absolute;
+  font-size: 6vw;
+  padding: 0px;
+  text-align: left;
+  color:white;
+  
+
+position: absolute;
+top: 30px;
+left: 34%;
+transform: translate(-50%,50px);
+
+  
+}
+
+
+
+
+h3 {
+  position: absolute;
+  font-size: 3vw;
+  padding: 0px;
+  text-align: left;
+  color: white;
+  
+
+position: absolute;
+top: 45px;
+left: 38%;
+transform: translate(-50%,180px);
+}
+
+h4 {
+  position: absolute;
+  text-align: center;
+  font-size: 21px;
+  margin-top: 60px;
+  color: white;
+}
+
+.startbet{
+ 
+ 
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  top: 8px;
+  left: 50%;
+  transform: translate(-50%,390px);
+  background: seagreen;
+  font-size: 22px;
+  font-weight: 400;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+ 
+
+}
+
+
+
+
+
+
+.startbet:hover {
+  background-color: black;
+  color: seagreen;
+}
+
+
+.startbet:hover {
+  background-color: black;
+  color: seagreen;
+}
+
+
+
+.bgimage img{
+
+  
+  width:100%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.55;
+
+}
+
+
+
+
+
+
+
